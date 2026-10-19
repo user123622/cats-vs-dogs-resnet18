@@ -1,0 +1,12 @@
+# Dataset (downloaded by the notebook - not stored in the repo)
+dataset/
+*.zip
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Model weights
+*.pth
+*.pt
